@@ -1,0 +1,2 @@
+Hello Java File Transfer
+This is a test file for Traditional IO and NIO.

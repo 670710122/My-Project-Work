@@ -1,11 +1,4 @@
-# 517-312 Operating Systems
-
-# TERM PROJECT - Mini Job Scheduler & Shared Resource Manager
-
-### Group Member
-### 1.นางสาวกัญญรัชต์ สมหวังพรเจริญ รหัสนักศึกษา 670710122
-### 2.นางสาวอนัญญณัชช์ ขจรศิริผล รหัสนักศึกษา 670710637
-### 3.นางสาวจุฑารัตน์ รู้วงษ์ รหัสนักศึกษา 670710643
+# Mini Job Scheduler & Shared Resource Manager
 
 ## 1. Compile 
 
